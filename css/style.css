@@ -3,16 +3,15 @@ body{
 }
 
 h1{
-  text-align: center;
   color:white;
+  text-align: center;
 }
 
-
-.bandera, .bandera p{
-  display:inline;
-  margin: 0px 80px;
-  padding: 10px 10px;
-
+.bandera{
+  display:inline-block;
+  height: 20vh;
+  width: 30%;
+  margin: 0px 10px;
   }
 
   .amarillo{
@@ -26,5 +25,5 @@ h1{
   }
 
   #mayusculas{
-    text-transform: uppercase;
-  }
+      text-transform: uppercase;
+    }
