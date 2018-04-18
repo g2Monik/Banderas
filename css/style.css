@@ -8,9 +8,9 @@ h1{
 }
 
 .bandera{
-  display:inline-block;
+  display:block;
   height: 20vh;
-  width: 30%;
+  width: 20%;
   margin: 0px 10px;
   }
 
