@@ -1,0 +1,30 @@
+body{
+  background-color:black;
+}
+
+h1{
+  text-align: center;
+  color:white;
+}
+
+
+.bandera, .bandera p{
+  display:inline;
+  margin: 0px 80px;
+  padding: 10px 10px;
+
+  }
+
+  .amarillo{
+    background-color: #F3F781;
+    color: #000000;
+  }
+
+  .gris{
+    background-color: grey;
+    color: white;
+  }
+
+  #mayusculas{
+    text-transform: uppercase;
+  }
